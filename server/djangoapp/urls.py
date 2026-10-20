@@ -9,3 +9,6 @@ urlpatterns = [
 urlpatterns += [
     path(route='get_cars', view=views.get_cars, name='getcars'),
 ]
+urlpatterns += [
+    path(route='get_cars', view=views.get_cars, name='getcars'),
+]
