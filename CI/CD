@@ -1,0 +1,20 @@
+Run lint_python
+  ✓ Set up job
+  – Checkout Repository
+  ✓ Set up Python
+  ✓ Install dependencies
+  ✓ Print working directory
+  ✓ Run Linter
+    Linted all the python files successfully
+  – Complete job
+
+Run lint_js
+  ✓ Set up job
+  ✓ Checkout Repository
+  – Install Node.js
+  ✓ Install JSHint
+  ✓ Run Linter
+    Linted all the js files successfully
+  ✓ Complete job
+
+Workflow completed successfully.
